@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-ntd*xwcv#kde59_6r9fe)+6@1fr^lvqo0&^^q$wuwoih550g=w
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'boutique-ado-edu.herokuapp.com', 'localhost',
+    'boutique-ado-edu-5015606d3c01.herokuapp.com', 'localhost',
 ]
 
 
