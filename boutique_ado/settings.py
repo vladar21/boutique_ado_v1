@@ -31,7 +31,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', '')
 DEBUG = 'DEVELOPMENT' in os.environ
 
 ALLOWED_HOSTS = [
-    'boutique-ado-edu-5015606d3c01.herokuapp.com', 'localhost',
+    'boutique-ado-edu-5015606d3c01.herokuapp.com', 'localhost', '127.0.0.1',
 ]
 
 
